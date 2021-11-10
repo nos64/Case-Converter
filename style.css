@@ -1,0 +1,23 @@
+
+body {
+    background-color: rgb(181, 203, 204);
+}
+.wrapper {
+display: flex;
+align-items: center;
+flex-direction: column;
+}
+.title {
+    text-align: center;
+    font: 22px/1.5 ;
+}
+
+.btn-wrapper {
+    display: block;
+}
+
+button {
+    background-color: brown;
+    font-size: 16px;
+    cursor: pointer;
+}
